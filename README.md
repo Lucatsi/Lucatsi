@@ -1,4 +1,5 @@
-Languages and Tools:
+### Languages and Tools:
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -38,24 +39,37 @@ Languages and Tools:
       <br>Nuxt.js
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <a href="#php">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <a href="#react">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>PHP
+      <br>React
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <a href="#nextjs">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Laravel
+      <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#mysql">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="#nodejs">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>MySQL
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#tailwindcss">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#typescript">
@@ -63,31 +77,65 @@ Languages and Tools:
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#livewire">
-        <img src="https://laravel-livewire.com/img/twitter.png" width="48" height="48" alt="Livewire" />
-      </a>
-      <br>Livewire
-    </td>
-    <td align="center" width="96">
-      <a href="#alpinejs">
-        <img src="https://alpinejs.dev/alpine_long.svg" width="48" height="48" alt="Alpine.js" />
-      </a>
-      <br>Alpine.js
-    </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <a href="#ubuntu">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <a href="#docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Ubuntu
+      <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
+      <a href="#kubernetes">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>DigitalOcean
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#aws">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#mongodb">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#firebase">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#vercel">
+        <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48" alt="Vercel" />
+      </a>
+      <br>Vercel
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#graphql">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#prisma">
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="48" height="48" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+      <a href="#supabase">
+        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
+      </a>
+      <br>Supabase
     </td>
     <td align="center" width="96">
       <a href="#git">
@@ -102,16 +150,10 @@ Languages and Tools:
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#postman">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <a href="#figma">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#vuepress">
-        <img src="https://raw.githubusercontent.com/vuejs/vuepress/master/packages/docs/docs/.vuepress/public/hero.png" width="48" height="48" alt="VuePress" />
-      </a>
-      <br>VuePress
+      <br>Figma
     </td>
   </tr>
 </table>
