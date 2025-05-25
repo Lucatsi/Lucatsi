@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tailwindcss">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
