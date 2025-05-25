@@ -94,7 +94,7 @@
     </td>
     <td align="center" width="96">
       <a href="#aws">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
@@ -132,10 +132,10 @@
       <br>Prisma
     </td>
     <td align="center" width="96">
-      <a href="#supabase">
-        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
+      <a href="#angular">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Supabase
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#git">
