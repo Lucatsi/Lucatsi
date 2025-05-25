@@ -209,12 +209,16 @@
  
 [![Lucatsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Lucatsi&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
-</div>
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
+
+
  
 ### 🏆 Profile Trophies
 <div align=center>
