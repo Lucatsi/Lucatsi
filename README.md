@@ -189,14 +189,6 @@
 <br>
 </div>
  
-### 💳 Github Profile Summary Card
- 
-<div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucatsi&theme=github_dark)
-  
-</div>
- 
 ### ⏱ Streak Stats
  
 <div align=center>
