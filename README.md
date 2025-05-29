@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="[LucasViveros.png]" />
+   <img align="center" width="200" src="https://github.com/Lucatsi/Lucatsi/blob/main/images/LucasViveros.png" />
    <h3 align="center">¡Hey 👋! Soy Lucas 👨🏻‍💻</h3>
 </p>
 <p align="center">
