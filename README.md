@@ -1,12 +1,25 @@
-<h1 align="center">Hi , I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center" width="300">
+   <img align="center" width="200" src="[LucasViveros.png]" />
+   <h3 align="center">¡Hey 👋! Soy Lucas 👨🏻‍💻</h3>
+</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/lucas-ram%C3%ADrez-a47865275/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn de Lucas Ramírez" height="28px" width="28px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://instagram.com/_lucaso.o" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram de _lucaso.o" height="23px" width="23px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://github.com/Lucatsi" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub de Lucatsi" height="28px" width="28px" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Graduate;Frontend+%26+Backend+Specialist;Always+learning+new+technologies;Passionate+about+Clean+Code;From+Chile+🇨🇱"></a>
 </p>
-<br>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Lucatsi&label=Profile%20views&color=0047AB&style=plastic?" alt="Lucatsi" height=25px, width=160px/> 
-</p>
-	
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
