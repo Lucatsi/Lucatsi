@@ -121,7 +121,7 @@ const lucas = {
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-    Let's Connect!
+    See you soon, friend!
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </h2>
 </div>
