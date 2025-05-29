@@ -1,3 +1,4 @@
+
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/Lucatsi/Lucatsi/blob/main/images/LucasViveros.png" />
    <h3 align="center">¡Hey 👋! Soy Lucas 👨🏻‍💻</h3>
@@ -20,20 +21,25 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Graduate;Frontend+%26+Backend+Specialist;Always+learning+new+technologies;Passionate+about+Clean+Code;From+Chile+🇨🇱"></a>
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
- <br><br>
-- :school: I am a `Computer Engineering` graduate from Chile 🇨🇱
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I specialize in `Full Stack Development` with modern technologies like React, Vue.js, and Node.js.
-- :student: I'm constantly learning `New Technologies` and `Best Practices` in software development.
-- :nerd_face: Always `exploring cutting-edge tools` and frameworks.
-- :rocket: Passionate about creating `clean, efficient, and scalable` applications.
-- :thinking: I'm currently open for new `opportunities` and exciting projects.
-- :boom: Feel free to check out my `repositories` and connect with me!
 <br>
 
-### Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+
+<br><br>
+- 🎓 I am a `Computer Engineering` graduate from Chile 🇨🇱
+- 💻 I love using Software as a solution for every `Problem`.
+- 🖥️ I specialize in `Full Stack Development` with modern technologies like React, Vue.js, and Node.js.
+- 📚 I'm constantly learning `New Technologies` and `Best Practices` in software development.
+- 🤓 Always `exploring cutting-edge tools` and frameworks.
+- 🚀 Passionate about creating `clean, efficient, and scalable` applications.
+- 💭 I'm currently open for new `opportunities` and exciting projects.
+- 💥 Feel free to check out my `repositories` and connect with me!
+
+<br><br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Languages and Tools
 
 <table align="center">
   <tr>
@@ -193,30 +199,38 @@
   </tr>
 </table>
 
+<br>
 
-## 📊 Profile Statistics
-<div align=center>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Profile Statistics
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Lucatsi&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 
-<br>
 </div>
  
-### ⏱ Streak Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed4b20.png" width="30"> Streak Stats
  
-<div align=center>
+<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lucatsi&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
  
-### 📈 Activity Graph
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"> Activity Graph
  
 [![Lucatsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🏆 Profile Trophies
-<div align=center>
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da15-a365-4972-8573-754f5c9dce06.png" width="30"> Profile Trophies
+
+<div align="center">
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
