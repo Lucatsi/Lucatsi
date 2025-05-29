@@ -214,22 +214,6 @@
  
 [![Lucatsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Conecta conmigo 🤝
-
-<p align="center">
-<a href="https://www.linkedin.com/in/lucas-ram%C3%ADrez-a47865275/" target="_blank">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-</a>
-<a href="https://github.com/Lucatsi" target="_blank">
-<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-</a>
-<a href="https://instagram.com/_lucaso.o" target="_blank">
-<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-</a>
-</p>
-
- 
 ### 🏆 Profile Trophies
 <div align=center>
  
