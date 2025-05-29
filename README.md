@@ -1,236 +1,147 @@
-
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/Lucatsi/Lucatsi/blob/main/images/LucasViveros.png" />
-   <h3 align="center">¡Hey 👋! Soy Lucas 👨🏻‍💻</h3>
-</p>
-<p align="center">
-   <a href="https://www.linkedin.com/in/lucas-ram%C3%ADrez-a47865275/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn de Lucas Ramírez" height="28px" width="28px" />
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/_lucaso.o" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram de _lucaso.o" height="23px" width="23px" />
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="https://github.com/Lucatsi" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub de Lucatsi" height="28px" width="28px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Graduate;Frontend+%26+Backend+Specialist;Always+learning+new+technologies;Passionate+about+Clean+Code;From+Chile+🇨🇱"></a>
-</p>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
-
-<br><br>
-- 🎓 I am a `Computer Engineering` graduate from Chile 🇨🇱
-- 💻 I love using Software as a solution for every `Problem`.
-- 🖥️ I specialize in `Full Stack Development` with modern technologies like React, Vue.js, and Node.js.
-- 📚 I'm constantly learning `New Technologies` and `Best Practices` in software development.
-- 🤓 Always `exploring cutting-edge tools` and frameworks.
-- 🚀 Passionate about creating `clean, efficient, and scalable` applications.
-- 💭 I'm currently open for new `opportunities` and exciting projects.
-- 💥 Feel free to check out my `repositories` and connect with me!
-
-<br><br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Languages and Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
-      </a>
-      <br>Nuxt.js
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <a href="#react">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#nextjs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#tailwindcss">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#typescript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <a href="#docker">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#kubernetes">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#aws">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#mongodb">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#firebase">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#vercel">
-        <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48" alt="Vercel" />
-      </a>
-      <br>Vercel
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <a href="#graphql">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#prisma">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <a href="#angular">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <a href="#git">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#vscode">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#figma">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Profile Statistics
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Lucatsi&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Ramírez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
- 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed4b20.png" width="30"> Streak Stats
- 
+
 <div align="center">
+  <img src="https://github.com/Lucatsi/Lucatsi/blob/main/images/LucasViveros.png" alt="Lucas Ramírez" width="150" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px #00d4ff;">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;From+Chile+%F0%9F%87%A8%F0%9F%87%B1" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/lucas-ram%C3%ADrez-a47865275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_lucaso.o" target="_blank">    
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Lucatsi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+    About Me
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  </h2>
+</div>
+
+<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const lucas = {
+    location: "Chile 🇨🇱",
+    education: "Computer Engineering Graduate",
+    currentFocus: "Full Stack Development",
+    languages: ["JavaScript", "TypeScript", "Python"],
+    frameworks: ["React", "Vue.js", "Next.js", "Node.js"],
+    databases: ["MongoDB", "Firebase", "PostgreSQL"],
+    tools: ["Docker", "AWS", "Git", "Figma"],
+    motto: "Code with passion, build with purpose! 🚀"
+};
+```
+
+- 🎓 **Computer Engineering** graduate passionate about technology
+- 💻 **Full Stack Developer** specializing in modern web technologies
+- 🌱 Currently mastering **Cloud Technologies** and **DevOps**
+- 🔥 Love building **scalable applications** with clean code
+- 🚀 Always exploring **cutting-edge frameworks** and tools
+- 💡 Open to **collaborations** and exciting projects
+- ⚡ Fun fact: I debug with **console.log()** and I'm proud of it! 😄
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+    Tech Stack
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  </h2>
+</div>
+
+<div align="center">
+  <h3>🌐 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,bootstrap,tailwind,sass,figma&theme=dark" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lucatsi&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
- 
-## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"> Activity Graph
- 
-[![Lucatsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da15-a365-4972-8573-754f5c9dce06.png" width="30"> Profile Trophies
-
-<div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <h3>⚙️ Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase,postgresql,prisma,graphql&theme=dark" />
   
+  <h3>🛠️ Tools & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,github,vscode,linux&theme=dark" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    GitHub Stats
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Lucas's%20GitHub%20Stats" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🔥 Streak Stats</h3>
+  <img src="https://streak-stats.demolab.com?user=Lucatsi&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=70A5FD&dates=8B949E" width="600"/>
+</div>
+
+<div align="center">
+  <h3>📊 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&bg_color=1a1b27&color=70a5fd&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="900"/>
+</div>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="900"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    Let's Connect!
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  </h2>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Lucatsi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Lucatsi?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Lives-Chile-success?style=flat-square" alt="Lives"/>
+    <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python-brightgreen?style=flat-square" alt="Languages"/>
+  </p>
+</div>
+
+<div align="center">
+  <i>💻 "The best way to predict the future is to create it." - Let's build something amazing together!</i>
+  <br><br>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
