@@ -20,9 +20,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Graduate;Frontend+%26+Backend+Specialist;Always+learning+new+technologies;Passionate+about+Clean+Code;From+Chile+🇨🇱"></a>
 </p>
 
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+  <br><br>
 - :school: I am a `Computer Engineering` graduate from Chile 🇨🇱
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I specialize in `Full Stack Development` with modern technologies like React, Vue.js, and Node.js.
