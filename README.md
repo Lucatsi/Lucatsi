@@ -93,31 +93,33 @@ const lucas = {
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub%20de%20Lucas&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="400"/>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Lucatsi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Lucatsi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
   <h3>🔥 Racha de Contribuciones</h3>
-  <img src="https://streak-stats.demolab.com?user=Lucatsi&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=00D4FF&dates=8B949E&locale=es" width="600"/>
+  <a href="https://github.com/Lucatsi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucatsi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
   <h3>📊 Gráfico de Actividad</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones%20de%20Lucas" width="900"/>
+  <a href="https://github.com/Lucatsi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  </a>
 </div>
 
 <div align="center">
   <h3>🏆 Trofeos de GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" width="900"/>
+  <a href="https://github.com/Lucatsi">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
