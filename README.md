@@ -8,14 +8,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;From+Chile+%F0%9F%87%A8%F0%9F%87%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Ingeniero+de+Software+%F0%9F%92%BB;Siempre+Aprendiendo+%F0%9F%93%9A;Desde+Chile+%F0%9F%87%A8%F0%9F%87%B1" alt="Typing SVG" />
   </a>
 </div>
-
-
-
-
-
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/lucas-ram%C3%ADrez-a47865275/" target="_blank">
@@ -34,7 +29,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-    About Me
+    Sobre Mí
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   </h2>
 </div>
@@ -43,44 +38,48 @@
 
 ```javascript
 const lucas = {
-    location: "Chile 🇨🇱",
-    education: "Computer Engineering Graduate",
-    currentFocus: "Full Stack Development",
-    languages: ["JavaScript", "TypeScript", "Python"],
+    ubicacion: "Chile 🇨🇱",
+    educacion: "Ingeniero en Computación",
+    enfoque: "Desarrollo Full Stack",
+    lenguajes: ["JavaScript", "TypeScript", "Python"],
     frameworks: ["React", "Vue.js", "Next.js", "Node.js"],
-    databases: ["MongoDB", "Firebase", "PostgreSQL"],
-    tools: ["Docker", "AWS", "Git", "Figma"],
-    motto: "Code with passion, build with purpose! 🚀"
+    baseDeDatos: ["MongoDB", "Firebase", "PostgreSQL"],
+    herramientas: ["Docker", "AWS", "Git", "Figma"],
+    lema: "¡Codifica con pasión, construye con propósito! 🚀"
 };
 ```
 
-- 🎓 **Computer Engineering** graduate passionate about technology
-- 💻 **Full Stack Developer** specializing in modern web technologies
-- 🌱 Currently mastering **Cloud Technologies** and **DevOps**
-- 🔥 Love building **scalable applications** with clean code
-- 🚀 Always exploring **cutting-edge frameworks** and tools
-- 💡 Open to **collaborations** and exciting projects
-- ⚡ Fun fact: I debug with **console.log()** and I'm proud of it! 😄
+<br>
+
+- 🎓 **Ingeniero en Computación** apasionado por la tecnología
+- 💻 **Desarrollador Full Stack** especializado en tecnologías web modernas
+- 🌱 Actualmente dominando **Tecnologías Cloud** y **DevOps**
+- 🔥 Me encanta construir **aplicaciones escalables** con código limpio
+- 🚀 Siempre explorando **frameworks de vanguardia** y herramientas innovadoras
+- 💡 Abierto a **colaboraciones** y proyectos emocionantes
+- ⚡ Dato curioso: ¡Debuggeo con **console.log()** y estoy orgulloso de ello! 😄
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-    Tech Stack
+    Stack Tecnológico
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   </h2>
 </div>
 
 <div align="center">
-  <h3>🌐 Frontend</h3>
+  
+  <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,bootstrap,tailwind,sass,figma&theme=dark" />
   
-  <h3>⚙️ Backend & Database</h3>
+  <h3>⚙️ Backend & Base de Datos</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase,postgresql,prisma,graphql&theme=dark" />
   
-  <h3>🛠️ Tools & DevOps</h3>
+  <h3>🛠️ Herramientas & DevOps</h3>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,github,vscode,linux&theme=dark" />
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -88,7 +87,7 @@ const lucas = {
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    GitHub Stats
+    Estadísticas de GitHub
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   </h2>
 </div>
@@ -97,54 +96,59 @@ const lucas = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Lucas's%20GitHub%20Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub%20de%20Lucas&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" width="400"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="400"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=Lucatsi&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=70A5FD&dates=8B949E" width="600"/>
+  <h3>🔥 Racha de Contribuciones</h3>
+  <img src="https://streak-stats.demolab.com?user=Lucatsi&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=00D4FF&dates=8B949E&locale=es" width="600"/>
 </div>
 
 <div align="center">
-  <h3>📊 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&bg_color=1a1b27&color=70a5fd&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="900"/>
+  <h3>📊 Gráfico de Actividad</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones%20de%20Lucas" width="900"/>
 </div>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="900"/>
+  <h3>🏆 Trofeos de GitHub</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" width="900"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-    See you soon, friend!
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40">
+    ¡Construyamos Algo Increíble Juntos!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40">
   </h2>
 </div>
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Lucatsi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Lucatsi?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Lives-Chile-success?style=flat-square" alt="Lives"/>
-    <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python-brightgreen?style=flat-square" alt="Languages"/>
+    <img src="https://komarev.com/ghpvc/?username=Lucatsi&label=Visitas%20al%20Perfil&color=00d4ff&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Lucatsi?label=Seguidores&style=flat-square&color=00d4ff" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Enfoque-Desarrollo%20Full%20Stack-00d4ff?style=flat-square" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Vive%20en-Chile-success?style=flat-square" alt="Lives"/>
+    <img src="https://img.shields.io/badge/Lenguajes-JavaScript%20%7C%20TypeScript%20%7C%20Python-00d4ff?style=flat-square" alt="Languages"/>
   </p>
 </div>
 
 <div align="center">
-  <i>💻 "The best way to predict the future is to create it." - Let's build something amazing together!</i>
+  <i>💻 "La mejor manera de predecir el futuro es crearlo." - ¡Construyamos algo increíble juntos!</i>
   <br><br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+<div align="center">
+  <h3>📫 ¿Conectamos?</h3>
+  <p>Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!</p>
 </div>
 
 <div align="center">
