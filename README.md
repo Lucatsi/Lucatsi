@@ -136,19 +136,30 @@ const lucas: Desarrollador = {
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucatsi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucatsi&bg_color=0D1117&color=00D4FF&line=667EEA&point=FFFFFF&area=true&hide_border=true&height=300&custom_title=Actividad%20de%20Contribuciones" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Lucatsi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&card_width=800" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucatsi/Lucatsi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucatsi/Lucatsi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucatsi/Lucatsi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucatsi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
 <br>
