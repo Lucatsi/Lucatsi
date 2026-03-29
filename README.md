@@ -39,7 +39,7 @@
 ```javascript
 const lucas = {
     ubicacion: "Chile 🇨🇱",
-    educacion: "Ingeniero en Computación",
+    educacion: "Ingeniero en Informatica",
     enfoque: "Desarrollo Full Stack",
     lenguajes: ["JavaScript", "TypeScript", "Python"],
     frameworks: ["React", "Vue.js", "Next.js", "Node.js"],
@@ -51,7 +51,7 @@ const lucas = {
 
 <br>
 
-- 🎓 **Ingeniero en Computación** apasionado por la tecnología
+- 🎓 **Ingeniero en Informatica** apasionado por la tecnología
 - 💻 **Desarrollador Full Stack** especializado en tecnologías web modernas
 - 🌱 Actualmente dominando **Tecnologías Cloud** y **DevOps**
 - 🔥 Me encanta construir **aplicaciones escalables** con código limpio
