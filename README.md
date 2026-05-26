@@ -67,8 +67,8 @@ portafolio: sombreroverde.tech
 **☁️ Infra & Deploy**
 
 <img src="https://skillicons.dev/icons?i=vercel,docker,linux,cloudflare&theme=dark&perline=4" />
-<br><br>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" height="48"/>
+<br>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" height="28"/>
 
 </td>
 <td valign="top" width="50%">
@@ -84,8 +84,6 @@ portafolio: sombreroverde.tech
 <br>
 
 ## 🚀 Proyecto destacado
-
-<div>
 
 ### 💳 Gift-Card.Mline
 
@@ -105,8 +103,6 @@ portafolio: sombreroverde.tech
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![WebPay](https://img.shields.io/badge/WebPay-EF3340?style=flat-square&logoColor=white)
-
-</div>
 
 <br>
 
@@ -129,22 +125,21 @@ portafolio: sombreroverde.tech
 
 <div align="center">
 
-<a href="https://github.com/Lucatsi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucatsi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Lucatsi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucatsi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucatsi&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucatsi&theme=github_dark" alt="Repos por lenguaje" />
 
 </div>
 
-<br>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucatsi&theme=github_dark" alt="Lenguajes más commiteados" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucatsi&theme=github_dark&utcOffset=-4" alt="Horas de actividad" />
+
+</div>
 
 <div align="center">
 
-<a href="https://github.com/Lucatsi">
-  <img src="https://streak-stats.demolab.com?user=Lucatsi&theme=tokyonight" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Lucatsi&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
