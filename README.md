@@ -14,7 +14,7 @@
 
 Soy dev full-stack del sur de Chile 🌋. Llevo un tiempo construyendo proyectos que terminaron en producción, no solo tutoriales ni cosas atascadas en el `localhost`.
 
-Me motiva el código que la gente usa de verdad y los equipos donde se aprende en el camino. Cuando no estoy programando, estoy streameando en TikTok con mi comunidad gamer, viendo anime o pensando ideas para el próximo side project que probablemente no termine.
+Me motiva el código que la gente usa de verdad y los equipos donde se aprende en el camino. Cuando no estoy programando, estoy streameando en TikTok con mi comunidad gamer, viendo anime o pensando ideas para el próximo proyecto.
 
 ```yaml
 ubicación:  Llanquihue, Chile
